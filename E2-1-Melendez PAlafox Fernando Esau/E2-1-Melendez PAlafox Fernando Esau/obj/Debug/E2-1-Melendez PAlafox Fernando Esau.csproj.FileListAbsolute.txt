@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\obj\Debug\E2-1-Melendez PAlafox Fernando Esau.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\obj\Debug\E2-1-Melendez PAlafox Fernando Esau.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\bin\Debug\E2-1-Melendez PAlafox Fernando Esau.exe.config
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\bin\Debug\E2-1-Melendez PAlafox Fernando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\bin\Debug\E2-1-Melendez PAlafox Fernando Esau.pdb
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\obj\Debug\E2-1-Melendez PAlafox Fernando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\E2-1-Melendez PAlafox Fernando Esau\E2-1-Melendez PAlafox Fernando Esau\obj\Debug\E2-1-Melendez PAlafox Fernando Esau.pdb
