@@ -1,0 +1,7 @@
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\bin\Debug\E2-2 Melendez Palafox Fernando Esau.exe.config
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\bin\Debug\E2-2 Melendez Palafox Fernando Esau.exe
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\bin\Debug\E2-2 Melendez Palafox Fernando Esau.pdb
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\obj\Debug\E2-2 Melendez Palafox Fernando Esau.csprojAssemblyReference.cache
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\obj\Debug\E2-2 Melendez Palafox Fernando Esau.csproj.CoreCompileInputs.cache
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\obj\Debug\E2-2 Melendez Palafox Fernando Esau.exe
+C:\Users\MR.BAGO\Documents\Esau\E2-2 Melendez Palafox Fernando Esau\E2-2 Melendez Palafox Fernando Esau\obj\Debug\E2-2 Melendez Palafox Fernando Esau.pdb
