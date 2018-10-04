@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\bin\Debug\PE2-3-Melendez Palafox Fernando Esau.exe.config
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\bin\Debug\PE2-3-Melendez Palafox Fernando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\bin\Debug\PE2-3-Melendez Palafox Fernando Esau.pdb
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\obj\Debug\PE2-3-Melendez Palafox Fernando Esau.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\obj\Debug\PE2-3-Melendez Palafox Fernando Esau.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\obj\Debug\PE2-3-Melendez Palafox Fernando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Proyecto 2da Unidad\PE2-3-Melendez Palafox Fernando Esau\PE2-3-Melendez Palafox Fernando Esau\obj\Debug\PE2-3-Melendez Palafox Fernando Esau.pdb
